@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart
+langdetect==1.0.9
+python-dateutil==2.9.0.post0
+streamlit==1.38.0
+gradio==4.44.0
+requests==2.32.3
+ibm-watsonx-ai==1.2.14
+ibm-watson==8.1.0
+ibm-cloud-sdk-core==3.19.3
